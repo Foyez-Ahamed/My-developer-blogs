@@ -1,0 +1,12 @@
+#third-paragraph h1{
+    color: brown;
+}
+
+#third-paragraph h1 span{
+    color: darkblue;
+}
+
+#third-paragraph p{
+    background-color: burlywood;
+    padding: 15px;
+}
