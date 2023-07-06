@@ -1,5 +1,8 @@
 #third-paragraph h1{
     color: brown;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #third-paragraph h1 span{
@@ -9,4 +12,28 @@
 #third-paragraph p{
     background-color: burlywood;
     padding: 15px;
+}
+
+.list-item{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.list-item h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: blueviolet;
+}
+
+.list-item ul{
+    background-color: tomato;
+    border: 2px solid rgb(205, 64, 39);
+    border-radius: 10px;
+}
+
+.list-item ul li{
+    font-size: 20px;
+    padding: 10px;
+    color: azure;
+    font-weight: 600;
 }
